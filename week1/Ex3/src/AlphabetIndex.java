@@ -8,4 +8,5 @@ public class AlphabetIndex {
         int value = (int) lowercase;
         System.out.println(value - 96);
     }
+
 }
