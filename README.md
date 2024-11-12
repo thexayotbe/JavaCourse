@@ -45,7 +45,4 @@ This repository is a personal project aimed at consolidating my learning and sha
 ---
 
 
-![Exciting Java](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExendoNWFlZWpkOTI0cDN3M3NrbnBvOWE1bW5sZ3BtODJzcTBsenJ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif)
-
-
 
