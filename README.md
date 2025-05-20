@@ -29,6 +29,8 @@ JavaCourse/
 └── ...
 ```
 
+
+
 ## Summary of Tasks
 
 In this repository, you will find solutions to various tasks designed to strengthen my understanding of Java. Each task is meticulously documented and structured, showcasing my progress through the course.
